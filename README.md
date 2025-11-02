@@ -47,3 +47,7 @@ A rule-based algorithm classifies fish species and estimates their potential qua
 ## Note
 This version uses empirical and rule-based methods for fish detection.  
 A future update will integrate a trained **AI model** for real-time fish species recognition based on the captured images.
+
+Project by Menna Mohamed Fathy 
+
+
